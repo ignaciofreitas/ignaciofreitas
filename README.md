@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hello! My Name is Ignacio, my friends call me Nacho. 
-I am a Front-end Developer
+I am a Front-end Developer.
 
 Describing myself in a few words I would like to say that I am always looking for new challenges and I really enjoy working in teams and sharing knowledge and skills with other people.
 I actually find the user experience the most insteresting and creative part of the web development. So in order to accomplish that successfull interactivity within the user and the websites I studied Front-end Development.
 I really enjoyed studying on some online platforms and also as an independant learner on some bootcamps.
 
-Last but not least, I consider myself a bit perfectcionist always looking for my best performance doing my work bonding some discipline with emotional intelligence.
+Last but not least, I consider myself a bit perfectionist always looking for my best performance doing my work bonding some discipline with emotional intelligence.
 
 
 ## 🌐 Socials:
